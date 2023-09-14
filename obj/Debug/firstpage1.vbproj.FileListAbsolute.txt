@@ -1,0 +1,13 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\bin\Debug\firstpage1.exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\bin\Debug\firstpage1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\bin\Debug\firstpage1.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\bin\Debug\firstpage1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.vbprojAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.Login.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.Splash.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.vbproj.GenerateResource.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\firstpage1\obj\Debug\firstpage1.pdb
